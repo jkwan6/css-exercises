@@ -1,0 +1,15 @@
+/* styles.css */
+
+.button1, .button2
+{
+    border-radius: 0px;
+    border-color: antiquewhite;
+    font-family: 'Helvetica, Times New Roman, serif';
+    font-size: 20px;
+    background-color: yellow;
+}
+.button1
+{
+    color: white;
+    background-color: black;
+}
